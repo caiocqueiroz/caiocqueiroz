@@ -726,9 +726,10 @@ Error: Module not found
 The module address "git::https://github.com/user/terraform-modules.git//modules/netwrk?ref=v1.0.0"
 could not be resolved.
 ```
+*Note: Observe the typo "netwrk" instead of "network" in the module path*
 
 **Solution:**
-- Check module path (e.g., `netwrk` vs `network`)
+- Check module path (e.g., typo `netwrk` vs correct `network`)
 - Check if tag exists: `git tag -l`
 - Check directory structure in repository
 
@@ -813,5 +814,5 @@ terraform init -upgrade
 ---
 
 **Document created:** January 2026  
-**Last update:** 01/21/2026  
+**Last update:** January 21, 2026  
 **Version:** 1.0.0

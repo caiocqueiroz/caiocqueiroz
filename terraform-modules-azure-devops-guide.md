@@ -726,9 +726,10 @@ Error: Module not found
 The module address "git::https://github.com/user/terraform-modules.git//modules/netwrk?ref=v1.0.0"
 could not be resolved.
 ```
+*Nota: Observe o erro de digitação "netwrk" ao invés de "network" no caminho do módulo*
 
 **Solução:**
-- Verifique o caminho do módulo (ex: `netwrk` vs `network`)
+- Verifique o caminho do módulo (ex: erro de digitação `netwrk` vs `network` correto)
 - Verifique se a tag existe: `git tag -l`
 - Verifique a estrutura de diretórios no repositório
 
@@ -812,6 +813,6 @@ terraform init -upgrade
 
 ---
 
-**Documento criado em:** Janeiro 2026  
-**Última atualização:** 21/01/2026  
+**Documento criado em:** Janeiro de 2026  
+**Última atualização:** 21 de Janeiro de 2026  
 **Versão:** 1.0.0
