@@ -5,7 +5,7 @@
 - **Nome Legal:** Korporate Serviços de Desenvolvimento Ltda.
 - **Nome Comercial:** Korporate Tecnologia
 - **Fundação:** 2017
-- **Sede:** Rua Empresario Clovis Rolim, João Pessoa, PB, Brasil
+- **Sede:** Rua Empresário Clovis Rolim, João Pessoa, PB, Brasil
 - **Porte:** Microempresa (11-20 funcionários)
 - **Receita Anual Estimada:** R$ 130.000 a R$ 360.000
 - **Website:** https://www.korporate.com.br/
