@@ -12,3 +12,16 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=caiocqueiroz&theme=dark&hide=tcl,css,html,batchfile,shell&langs_count=10&layout=compact)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=caiocqueiroz&show_icons=true&theme=dark&count_private=true)
+
+---
+
+## 📚 Technical Guides
+
+### Terraform & Azure DevOps
+
+- 🇧🇷 [Guia: Organização e Acesso a Módulos Terraform via Azure DevOps](./terraform-modules-azure-devops-guide.md) - Portuguese guide for organizing and accessing Terraform modules from GitHub in Azure DevOps pipelines
+- 🇺🇸 [Guide: Organizing and Accessing Terraform Modules via Azure DevOps](./terraform-modules-azure-devops-guide-en.md) - English version
+
+### Business Information
+
+- [Korporate - Business Intelligence](./korporate-business-intelligence.md) - Company information and business insights
